@@ -1181,7 +1181,7 @@
 			(uuid "2588ab45-f65a-4d45-abc2-dd80247a12d9")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "SW4")
 					(unit 1)
@@ -1261,7 +1261,7 @@
 			(uuid "22e46875-b79a-4924-8bed-9b2713c67cd6")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "SW3")
 					(unit 1)
@@ -1338,7 +1338,7 @@
 			(uuid "020f80a8-8091-4738-b294-3f44ccce9233")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "#PWR03")
 					(unit 1)
@@ -1454,7 +1454,7 @@
 			(uuid "0e85d5ff-cc0b-4566-9135-e46bd84a79b9")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "U1")
 					(unit 1)
@@ -1534,7 +1534,7 @@
 			(uuid "9ddaefa3-8a09-4ac9-ab2e-764c08e9174f")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "SW5")
 					(unit 1)
@@ -1621,7 +1621,7 @@
 			(uuid "b48c36bd-8668-4c00-814f-97b2c5fd9d34")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "J1")
 					(unit 1)
@@ -1699,7 +1699,7 @@
 			(uuid "82245527-1c35-4dc6-8445-569ce467862b")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "#PWR02")
 					(unit 1)
@@ -1777,7 +1777,7 @@
 			(uuid "499a42be-192d-4235-84fa-06929d511d91")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "#PWR05")
 					(unit 1)
@@ -1855,7 +1855,7 @@
 			(uuid "e22ee0e2-c59c-4370-b2ed-72035d919075")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "#PWR04")
 					(unit 1)
@@ -1933,7 +1933,7 @@
 			(uuid "92f93e79-95fa-4a58-abc6-43b55f150a60")
 		)
 		(instances
-			(project "Thingamapad"
+			(project "Padderwadder"
 				(path "/c6105566-72d8-4055-a5ca-8aed5f38f08c"
 					(reference "#PWR01")
 					(unit 1)
