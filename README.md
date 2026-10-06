@@ -1,4 +1,33 @@
-# Thingamapad
-Thingamapad is a simple 3-key macropad featuring an OLED Display! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs through the process of making Thingamapad :D
+# Padderwadder
+Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs through the process of making Padderwadder :D
 
-# Features
+## Features
+- 3 keys
+- A 128x32 OLED Display
+- A 3D printed case
+- KMK Firmware
+
+## CAD
+Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time figuring out how to make this but I had fun :)
+
+<img src=assets/CAD.png alt="Model" width="500"/>
+
+## PCB
+My schematic and PCB, made in KiCad 10.0
+
+**Schematic**:
+
+<img src=assets/Schematic.png alt="Schematic" width="500"/>
+
+**PCB**:
+
+<img src=assets/PCB.png alt="Schematic" width="500"/>
+
+## BOM
+Everything needed for this design:
+- 1 unsoldered Seeed XIAO RP2040
+- 3x MX-Style switches
+- 1x 0.91 inch 128x32 OLED display
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
+- 3D printed case
