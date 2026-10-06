@@ -3,25 +3,29 @@ Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed 
 
 ## Features
 - 3 keys
-- A 128x32 OLED Display
+- A 0.91 inch OLED Display
 - A 3D printed case
 - KMK Firmware
 
 ## CAD
 Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time figuring out how to make this but I had fun :)
 
-<img src=assets/CAD.png alt="Model" width="500"/>
+![Screenshot of CAD](assets/CAD.png)
+
+| Top                            | Middle                              | Middle                               |
+| ------------------------------ | ----------------------------------- | ------------------------------------ |
+| ![Top of case](assets/Top.png) | ![Middle of case](assets/Plate.png) | ![Bottom of case](assets/Bottom.png) |
 
 ## PCB
 My schematic and PCB, made in KiCad 10.0
 
 **Schematic**:
 
-<img src=assets/Schematic.png alt="Schematic" width="500"/>
+![Screenshot of schematic](assets/Schematic.png)
 
 **PCB**:
 
-<img src=assets/PCB.png alt="Schematic" width="500"/>
+![Screenshot of PCB](assets/PCB.png)
 
 ## BOM
 Everything needed for this design:
