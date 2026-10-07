@@ -1,5 +1,5 @@
 # Padderwadder
-Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs through the process of making Padderwadder :D
+Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs throughout the process :D
 
 ## Features
 - 3 keys
@@ -8,7 +8,7 @@ Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed 
 - KMK Firmware
 
 ## CAD
-Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time figuring out how to make this but I had fun :)
+Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time researching and figuring out how to make this but I had fun :)
 
 ![Screenshot of CAD](assets/CAD.png)
 
@@ -17,7 +17,7 @@ Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts 
 | ![Top of case](assets/Top.png) | ![Middle of case](assets/Plate.png) | ![Bottom of case](assets/Bottom.png) |
 
 ## PCB
-My schematic and PCB, made in KiCad 10.0
+My PCB, made in KiCad 10.0
 
 **Schematic**:
 
