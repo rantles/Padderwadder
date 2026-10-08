@@ -8,7 +8,7 @@ Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed 
 - KMK Firmware
 
 ## CAD
-Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time researching and figuring out how to make this but I had fun :)
+Heres my CAD model, made in Fusion 360! The case is held together by 4 M3 Bolts and heatset inserts. I think I spent almost half of my time researching and figuring things out but I had fun :)
 
 ![Screenshot of CAD](assets/CAD.png)
 
