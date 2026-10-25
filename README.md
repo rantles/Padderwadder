@@ -1,9 +1,10 @@
 # Padderwadder
-Padderwadder is a simple 3-key macropad featuring an OLED Display! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs throughout the process :D
+Padderwadder is a simple 3-key macropad featuring an OLED Display and a rotary encoder! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs throughout the process :D
 
 ## Features
 - 3 keys
 - A 0.91 inch OLED Display
+- EC11 Rotary encoder
 - A 3D printed case
 - QMK Firmware
 
@@ -32,6 +33,7 @@ Everything needed for this design:
 - 1 unsoldered Seeed XIAO RP2040
 - 3x MX-Style switches
 - 1x 0.91 inch 128x32 OLED display
+- 1x EC11 Rotary Encoder
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
 - 3D printed case
