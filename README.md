@@ -1,6 +1,8 @@
 # Padderwadder
 Padderwadder is a simple 3-key macropad featuring an OLED Display and a rotary encoder! I programmed this macropad for the game osu! using KMK Firmware. This is my first ever hardware project, so I got to learn how to use a ton of new programs throughout the process :D
 
+(for some reason the images aren't updated, click them to view the updated version)
+
 ## Features
 - 3 keys
 - A 0.91 inch OLED Display
