@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "../../../../padderwadder.stl",
+      "step": "../../../../../Downloads/padderwadder.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -673,7 +673,7 @@
         "uuid": "c6105566-72d8-4055-a5ca-8aed5f38f08c"
       }
     ],
-    "used_designators": "U1-2,SW1-5,#PWR1-5,#FLG1-2,J1",
+    "used_designators": "U1-2,SW1-5,#PWR1-7,#FLG1-2,J1",
     "variants": []
   },
   "sheets": [
