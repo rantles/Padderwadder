@@ -37,6 +37,7 @@ The rotary encoder is programmed to rotate to change volume, and press to mute.
 Everything needed for this design:
 - 1 unsoldered Seeed XIAO RP2040
 - 3x MX-Style switches
+- 4x white blank DSA Keycaps
 - 1x 0.91 inch 128x32 OLED display
 - 1x EC11 Rotary Encoder
 - 4x M3x16mm screws
