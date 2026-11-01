@@ -29,7 +29,8 @@ My PCB, made in KiCad 10.0
 ![Screenshot of PCB](assets/PCB.png)
 
 ## Firmware Overview
-This entire macropad uses QMK Firmware
+This entire macropad uses QMK Firmware.
+
 The rotary encoder is programmed to rotate to change volume, and press to mute.
 
 ## BOM
